@@ -1,0 +1,2 @@
+E:\UMCA\PFinal\Calculadora\ConsolaCalculadora\UnitCalculadora\obj\Debug\UnitCalculadora.csprojAssemblyReference.cache
+E:\UMCA\PFinal\Calculadora\ConsolaCalculadora\UnitCalculadora\obj\Debug\UnitCalculadora.csproj.CoreCompileInputs.cache

@@ -1,0 +1,15 @@
+E:\UMCA\PFinal\Calculadora\ConsolaCalculadora\ConsolaCalculadora\bin\Debug\net5.0\ConsolaCalculadora.exe
+E:\UMCA\PFinal\Calculadora\ConsolaCalculadora\ConsolaCalculadora\bin\Debug\net5.0\ConsolaCalculadora.deps.json
+E:\UMCA\PFinal\Calculadora\ConsolaCalculadora\ConsolaCalculadora\bin\Debug\net5.0\ConsolaCalculadora.runtimeconfig.json
+E:\UMCA\PFinal\Calculadora\ConsolaCalculadora\ConsolaCalculadora\bin\Debug\net5.0\ConsolaCalculadora.runtimeconfig.dev.json
+E:\UMCA\PFinal\Calculadora\ConsolaCalculadora\ConsolaCalculadora\bin\Debug\net5.0\ConsolaCalculadora.dll
+E:\UMCA\PFinal\Calculadora\ConsolaCalculadora\ConsolaCalculadora\bin\Debug\net5.0\ref\ConsolaCalculadora.dll
+E:\UMCA\PFinal\Calculadora\ConsolaCalculadora\ConsolaCalculadora\bin\Debug\net5.0\ConsolaCalculadora.pdb
+E:\UMCA\PFinal\Calculadora\ConsolaCalculadora\ConsolaCalculadora\obj\Debug\net5.0\ConsolaCalculadora.GeneratedMSBuildEditorConfig.editorconfig
+E:\UMCA\PFinal\Calculadora\ConsolaCalculadora\ConsolaCalculadora\obj\Debug\net5.0\ConsolaCalculadora.AssemblyInfoInputs.cache
+E:\UMCA\PFinal\Calculadora\ConsolaCalculadora\ConsolaCalculadora\obj\Debug\net5.0\ConsolaCalculadora.AssemblyInfo.cs
+E:\UMCA\PFinal\Calculadora\ConsolaCalculadora\ConsolaCalculadora\obj\Debug\net5.0\ConsolaCalculadora.csproj.CoreCompileInputs.cache
+E:\UMCA\PFinal\Calculadora\ConsolaCalculadora\ConsolaCalculadora\obj\Debug\net5.0\ConsolaCalculadora.dll
+E:\UMCA\PFinal\Calculadora\ConsolaCalculadora\ConsolaCalculadora\obj\Debug\net5.0\ref\ConsolaCalculadora.dll
+E:\UMCA\PFinal\Calculadora\ConsolaCalculadora\ConsolaCalculadora\obj\Debug\net5.0\ConsolaCalculadora.pdb
+E:\UMCA\PFinal\Calculadora\ConsolaCalculadora\ConsolaCalculadora\obj\Debug\net5.0\ConsolaCalculadora.genruntimeconfig.cache
